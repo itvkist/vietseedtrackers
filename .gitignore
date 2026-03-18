@@ -1,13 +1,14 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,node,dotenv
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,node,dotenv
 
-# Vscode configuration files
+# General
 .vscode
+data/
+uploads/
 
 ### dotenv ###
 .env
 !directus/.env
-data/
 
 ### Linux ###
 *~
@@ -206,4 +207,11 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,node,dotenv
 
-uploads/
+# Frontend specific
+/build
+/.pnp
+.pnp.js
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

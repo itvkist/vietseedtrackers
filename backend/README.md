@@ -11,16 +11,13 @@ npm install
 npx directus start
 ```
 
-If `data.db` is not present, run `init.sh`:
-
-- Change `role_id` in `users.csv`
-- Import CSV to database
-- Change roles' permissions
-
 ## Notes
 
 - **Default admin login account**:  
   `admin@directus.com/123`
+
+- **To add new users**:  
+  Open Directus at http://localhost:8055, log in with the default admin account, then add users in the Users directory.
 
 - **Fix upload images**:  
   ```bash
