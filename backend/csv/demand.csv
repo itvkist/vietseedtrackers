@@ -1,0 +1,9 @@
+name,title,type,phone,start_time,end_time,user_id,description,details
+Minh Huong,Bán sắn số lượng cực lớn,sell,0987254322,2022-12-29,2022-12-31,[user_id],"Cần bán số lượng nhiều, kiếm tiền cuối năm","{""KM_98_5"":{""weight"":12,""price"":10000},""HN5"":{""weight"":100,""price"":8000}}"
+sell3,Bán sắn số lượng lớn,sell,0987354323,2022-12-30,2023-01-01,[user_id],Cần bán số lượng lớn,"{""HN36"":{""weight"":12,""price"":10000}}"
+sell4,Bán sắn gấp,sell,0987454324,2022-12-31,2023-01-02,[user_id],,"{""KM_98_5"":{""weight"":100,""price"":10000},""HN80"":{""weight"":10,""price"":9000}}"
+sell5,Bán sắn số lượng lớn,sell,0987554325,2023-01-01,2023-01-03,[user_id],,"{""XVP"":{""weight"":12,""price"":10000}}"
+buy6,Mua sắn gấp,buy,0987654326,2023-01-02,2023-01-04,[user_id],,"{""XVP"":{""weight"":12,""price"":10000}}"
+buy7,Mua sắn thí nghiệm,buy,0987754327,2023-01-03,2023-01-05,[user_id],"Thí nghiệm khoa học, chấp nhận giá cao","{""KM_98_5"":{""weight"":222,""price"":5000},""HN5"":{""weight"":660,""price"":8000},""XVP"":{""weight"":600,""price"":12000}}"
+buy8,Mua sắn gấp,buy,0987854328,2023-01-04,2023-01-06,[user_id],,"{""XVP"":{""weight"":6000,""price"":10000}}"
+buy9,Mua sắn gấp,buy,0987954329,2023-01-05,2023-01-07,[user_id],,"{""KM_98_5"":{""weight"":12,""price"":10000},""HN5"":{""weight"":100,""price"":8000}}"

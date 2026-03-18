@@ -1,0 +1,55 @@
+.bubbles {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 88px - 160px);
+  overflow: hidden;
+  background: linear-gradient(
+    180deg,
+    rgba(var(--primaryColor), 0.4),
+    50%,
+    #fff
+  );
+}
+
+.bubble {
+  position: absolute;
+  bottom: -75%;
+  background: rgba(var(--primaryColor));
+  border-radius: 50%;
+  animation: fall-down 10s infinite ease-in-out;
+}
+
+@keyframes fall-down {
+  0% {
+    bottom: 800px;
+    transform: translateX(0px);
+  }
+  20% {
+    transform: translateX(20px);
+  }
+  40% {
+    transform: translateX(40px);
+  }
+  60% {
+    transform: translateX(20px);
+  }
+  80% {
+    opacity: 0;
+    transform: translateX(0px);
+  }
+  100% {
+    bottom: 0px;
+    transform: translateX(-20px);
+    opacity: 0;
+  }
+}
+
+.blinking:hover {
+  animation: blinker 0.5s infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}

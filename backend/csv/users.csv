@@ -1,0 +1,6 @@
+first_name,email,password,role,title,location,description,status,phone
+thaolh,koica_thaolh@gmail.com,thaolh_K123,[role_id],Lương Hiền Thảo,Ấp 1- xã Suối NGô- huyện Tân Châu- tỉnh Tây Ninh,"{""cassava"":{""KM_94"":""active"",""KM_140"":""inactive""},""detail"":[""Diện tích trồng sắn: 17ha""]}",active,0982982123
+cuongls,koica_cuongls@gmail.com,cuongls_K123,[role_id],Lê Sĩ Cương,Xã Tân Hiệp- Tân Châu,"{""cassava"":{""KM_419"":""active"",""KM_505"":""active""},""detail"":[""Diện tích trồng sắn: 5ha""]}",active,0982982124
+phuongn,koica_phuongn@gmail.com,phuongn_K123,[role_id],Ngô Phương,Xã Thạnh Nghĩa- xã Thạnh Đông- Huyện Tân Châu,"{""cassava"":{""KM_505"":""inactive""},""detail"":[""Diện tích trồng sắn: 10ha""]}",active,0982982125
+viengnn,koica_viengnn@gmail.com,viengnn_K123,[role_id],Nguyễn Ngọc Viêng,Thị Trấn Tân Châu,"{""cassava"":{""KM_419"":""inactive"",""KM_505"":""active""},""detail"":[""Diện tích trồng sắn: 5ha""]}",active,0982982126
+phuongdt,koica_phuongdt@gmail.com,phuongdt_K123,[role_id],Dương Thanh Phương,"ấp Tân Xuân, Tân Phú, Tân Châu","{""cassava"":{""HN1"":""active"",""HN3"":""inactive"",""HN5"":""active"",""HN36"":""inactive"",""HN80"":""inactive""},""detail"":[""Diện tích trồng sắn: 30ha""]}",active,0982982127

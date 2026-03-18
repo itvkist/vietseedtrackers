@@ -1,0 +1,12 @@
+degree,lat,lon,area_code,disease_label,cassava_label
+1,11.3109,106.1199,703,phenacoccus_manihoti,KM_98_5
+3,11.3,106.12,25459,phenacoccus_manihoti,KM_419
+2,11.3122,106.1181,25474,phenacoccus_manihoti,KM_98_5
+1,11.394504,106.1509311,25471,anthracnose,HN3
+1,11.384466,106.1507392,25471,cassava_greem_mite,HN3
+1,11.375808,106.0993932,25528,cassava_brown_streak_disease,HN3
+3,11.3796995,106.1021298,710,anthracnose,HN80
+2,11.371206,106.108843,25474,toad_skin,HN80
+2,11.3602482,106.1177463,25480,toad_skin,XVP
+1,11.3531073,106.1277599,25480,anthracnose,HN80
+2,11.3308051,106.107681,25459,cassava_greem_mite,HN80

@@ -1,0 +1,15 @@
+label,original_name,variety_name,year_of_release,pedigree,color_of_apical_leaves,pubescence_on_apical_leaves,shape_of_central_leaflet,leaf_color,number_of_leaf_lobes,color_of_leaf_vein,petiole_color,orientation_of_petiole,prominence_of_foliar_scars,color_of_stem_cortex,color_of_stem_epidermis,color_of_stem_exterior,growth_habit_of_stem,levels_of_branching,shape_of_plant,extent_of_root_peduncle,root_shape,external_color_of_storage_root,color_of_root_pulp,color_of_root_cortex
+HN1,,,,,Xanh,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Xanh,Hướng lên trên,Trung bình,Xanh,,Xanh đậm,Thẳng,Không phân cành,Dạng mở,,,,,
+HN2,,,,,Xanh,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Xanh,,Cao,Xanh,,Xám,Thẳng,Phân cành,Dạng mở,,,,,
+HN3,,,,,Xanh,Không xuất hiện,Hình mũi mác,Xanh,7 thùy,Xanh,Xanh,Hướng lên trên,Trung bình,Xanh,,Xám,Thẳng,Phân cành,Dạng mở,,,Nâu đậm,Trắng,Trắng
+HN5,,,,,Tía,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Tía,Hướng lên trên,Trung bình,Xanh,,Xám,Thẳng,Phân cành,Dạng mở,,,Nâu đậm,Trắng,Trắng
+HN36,,,,,Xanh,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Xanh,,Trung bình,Xanh,,Xanh,Thẳng,Không phân cành,Dạng mở,,,,,
+HN80,,,,,Xanh,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Đỏ tía,,Trung bình,Xanh,,Xanh,Thẳng,Không phân cành,Dạng mở,,,,,
+KM_94,Kasetsart U.,Kasetsart 50/KM94,1993,Rayong 1 x Rayong 90,Xanh tía,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh hơi đỏ,Xanh hơi đỏ,Hướng lên trên,Cao,Xanh đậm,Nâu nhạt,Nâu nhạt,Thẳng,Phân cành,Dạng mở,Không xuất hiện,Hình nón,Nâu nhạt,Trắng,Trắng
+KM_98_5,KM 98 - 5,KM 98 - 5,2006,KM 98-1 x Rayong 90,Xanh tía,Không xuất hiện,Hình mũi mác,Xanh đậm,5 thùy,Xanh,Xanh,Hướng lên trên,Cao,Xanh đậm,Kem,Nâu nhạt,Thẳng,Phân cành,Dạng mở,Không xuất hiện,Hình trụ,Kem,Kem,Kem
+KM_98_7,KM 98 - 7,KM 98 - 7,1995,SM 1717 x CM 321-188,Xanh tía,Không xuất hiện,Hình thẳng hẹp,Xanh đậm,9 thùy,Xanh hơi đỏ,Đỏ hơi xanh,Hướng lên trên,Cao,Xanh nhạt,Nâu đậm,Nâu nhạt,Thẳng,Không phân cành,Hình trụ,Không xuất hiện,Hình trụ,Nâu đậm,Kem,Kem
+KM_140,KM 140,KM 140,2007,KM 98-1 x KM 36 ,Đỏ tía,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Xanh hơi đỏ,Hướng lên trên,Trung bình,Xanh nhạt,Nâu nhạt,Nâu nhạt,Thẳng,Phân cành,Hình ô,Không xuất hiện,Hình trụ,Nâu nhạt,Trắng,Trắng
+KM_419,SVN5,KM 419,2009,"BKA900 x (KM98-5 x KM98-5), BKA900: Brazil",Xanh nhạt,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Xanh hơi vàng,Ngang,Trung bình,Xanh đậm,Cam ,Nâu nhạt,Thẳng,Phân cành,Nhỏ gọn,Không xuất hiện,Hình nón trụ,Kem,Kem,Kem
+KM_505,,,,,Xanh,Không xuất hiện,Hình mũi mác,Xanh,7 thùy,Xanh,Trắng,Hướng lên trên,Trung bình,Xanh nhạt,Nâu nhạt,Nâu nhạt,Thẳng,Phân cành,Hình ô,,,Nâu,,
+SM_937_26,SM 937,SM 937/ SM 937 - 26,1990,Unknown,Xanh nhạt,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh,Xanh,Hướng lên trên,Trung bình,Xanh nhạt,Nâu nhạt,Nâu nhạt,Thẳng,Phân cành,Dạng mở,Xuất hiện,Dị hình,Nâu đậm,Trắng,Trắng
+XVP,XVP,XVP,1992,Local varieties,Xanh tía,Không xuất hiện,Hình mũi mác,Xanh đậm,7 thùy,Xanh hơi đỏ,Xanh hơi đỏ,Không có quy luật,Trung bình,Xanh đậm,Cam ,Nâu nhạt,Thẳng,Phân cành,Dạng mở,Không xuất hiện,Hình trụ,Nâu nhạt,Kem,Kem

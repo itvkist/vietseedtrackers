@@ -1,0 +1,144 @@
+.overflow-overlay {
+  overflow: overlay;
+}
+.content-inside {
+  height: calc(100vh - 88px - 160px);
+}
+
+.img-list {
+  display: flex;
+  flex-direction: column;
+}
+
+#login-form label,
+#login-form input {
+  font-size: 1rem;
+  line-height: 1.4rem;
+  height: 2.4rem;
+}
+
+#login-form button {
+  font-size: 1rem;
+  line-height: 1.4rem;
+}
+
+.table-row-unavailabel {
+  background-color: #f5f5f5;
+}
+
+.table-row-unavailabel:hover .ant-table-cell-row-hover {
+  background-color: #f5f5f5 !important;
+}
+
+.table-row-availabel {
+  background-color: #e4ffea;
+}
+
+.table-row-availabel:hover .ant-table-cell-row-hover {
+  background-color: #ceffd9 !important;
+}
+
+/* Chrome, Safari, Edge, Opera */
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.center-me {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.spin-icon:hover {
+  animation-name: spin;
+  animation-duration: 1000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media screen and (max-width: 640px) {
+  #root h1.ant-typography {
+    font-size: 1.5rem;
+  }
+  .cassava-table th:nth-child(3),
+  .cassava-table th:nth-child(4),
+  .cassava-table th:nth-child(5),
+  .cassava-table th:nth-child(6),
+  .cassava-table td:nth-child(3),
+  .cassava-table td:nth-child(4),
+  .cassava-table td:nth-child(5),
+  .cassava-table td:nth-child(6),
+  .disease-table th:nth-child(3),
+  .disease-table th:nth-child(4),
+  .disease-table th:nth-child(5),
+  .disease-table th:nth-child(6),
+  .disease-table th:nth-child(7),
+  .disease-table td:nth-child(3),
+  .disease-table td:nth-child(4),
+  .disease-table td:nth-child(5),
+  .disease-table td:nth-child(6),
+  .disease-table td:nth-child(7),
+  .disease-table-detail th:nth-child(1),
+  .disease-table-detail td:nth-child(1) {
+    display: none;
+  }
+  .disease-table td:nth-child(2) {
+    word-break: break-all;
+    width: 100%;
+  }
+  .disease-table-detail td:nth-child(3) {
+    width: 100%;
+  }
+  .supplier-table td:nth-child(2) {
+    word-break: break-all;
+    width: 100%;
+  }
+  .market-user-table th:nth-child(3),
+  .market-user-table th:nth-child(4),
+  .market-user-table th:nth-child(5),
+  .market-user-table th:nth-child(6),
+  .market-user-table th:nth-child(7),
+  .market-user-table th:nth-child(8),
+  .market-user-table td:nth-child(3),
+  .market-user-table td:nth-child(4),
+  .market-user-table td:nth-child(5),
+  .market-user-table td:nth-child(6),
+  .market-user-table td:nth-child(7),
+  .market-user-table td:nth-child(8) {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 1028px) {
+  .market-user-table th:nth-child(3),
+  .market-user-table th:nth-child(4),
+  .market-user-table th:nth-child(5),
+  .market-user-table th:nth-child(7),
+  .market-user-table th:nth-child(8),
+  .market-user-table td:nth-child(3),
+  .market-user-table td:nth-child(4),
+  .market-user-table td:nth-child(5),
+  .market-user-table td:nth-child(7),
+  .market-user-table td:nth-child(8) {
+    display: none;
+  }
+}

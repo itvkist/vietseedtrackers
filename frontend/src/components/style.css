@@ -1,0 +1,62 @@
+.dropdownTrigger {
+  position: relative;
+  padding-bottom: 1rem;
+}
+
+.dropdownContent {
+  margin-top: 4px;
+  position: absolute;
+  background-color: #faf4ff;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  top: 28px;
+  width: max-content;
+  z-index: 1;
+
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.2s ease-out;
+}
+
+.dropdownTrigger:hover .dropdownContent {
+  opacity: 1;
+  visibility: visible;
+}
+
+.dropdownContent a {
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.bottom-border-primary {
+  border-bottom: 2px solid rgba(var(--primaryColor));
+}
+
+#faqs .ant-input {
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid rgba(var(--primaryColor));
+  box-shadow: none;
+}
+#faqs .ant-input:hover,
+#faqs .ant-input:focus,
+#faqs .ant-input-status-error:hover,
+#faqs .ant-input-status-error:focus {
+  box-shadow: 0 0.75px rgba(var(--primaryColor));
+}
+
+#faqs .ant-input-status-error {
+  border: none;
+  border-bottom: 1px solid rgba(var(--primaryColor));
+}
+
+#faqs .ant-form-item-explain-error {
+  font-style: italic;
+  padding-bottom: 1rem;
+}
+
+#faqs .ant-collapse-item-active .ant-collapse-header,
+#faqs .ant-collapse-header:hover {
+  color: rgba(var(--primaryColor));
+}
