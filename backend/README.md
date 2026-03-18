@@ -1,27 +1,33 @@
-# DOCUMENTS
+# Backend README
 
-## Requirement
+## Requirements
 
 - [Node.js](https://nodejs.dev) v12.20 and above
 
-## BUILD
+## Installation
 
-```
+```bash
 npm install
 npx directus start
 ```
 
-- change role_id users.csv
-- import csv to db
-- change roles' permissions
+If `data.db` is not present, run `init.sh`:
 
-## NOTE
+- Change `role_id` in `users.csv`
+- Import CSV to database
+- Change roles' permissions
 
-- default admin login account:  
-admin@directus.com/123
+## Notes
 
-- fix upload img:  
-`docker-compose exec -u root directus chown -R node:node /directus/database /directus/extensions /directus/uploads`
+- **Default admin login account**:  
+  `admin@directus.com/123`
 
-- screenshot:  
-`docker-compose exec -u root directus npx directus schema snapshot --yes ./schema.yaml`
+- **Fix upload images**:  
+  ```bash
+  docker-compose exec -u root directus chown -R node:node /directus/database /directus/extensions /directus/uploads
+  ```
+
+- **Create schema snapshot**:  
+  ```bash
+  docker-compose exec -u root directus npx directus schema snapshot --yes ./schema.yaml
+  ```
