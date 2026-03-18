@@ -8,7 +8,7 @@ npm start
 ```
 
 Runs the app in the development mode.<br />
-Open [http://iai.uet.vnu.edu.vn:3000/](http://iai.uet.vnu.edu.vn:3000/) to view it in the browser.
+Open [http://0.0.0.0:3000/](http://0.0.0.0:3000/) to view it in the browser.
 
 update .env as .env.example
 
