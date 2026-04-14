@@ -1,4 +1,4 @@
-# VietSeed Trackers
+# Vietseedtrackers
 
 A web application for tracking cassava (sắn/khoai mif) seed sources and monitoring plant disease outbreaks across regions in Vietnam. Features include disease diagnostics via image upload, an interactive outbreak map, a seed market, and a disease knowledge base.
 
