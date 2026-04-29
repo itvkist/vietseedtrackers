@@ -37,6 +37,13 @@ vietseedtrackers/
 - Node.js >= 14
 - npm
 
+### Clone the Repository
+
+```bash
+git clone https://github.com/itvkist/vietseedtrackers.git
+cd vietseedtrackers
+```
+
 ---
 
 ### Backend
